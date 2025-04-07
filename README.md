@@ -18,7 +18,7 @@ This Jupyter notebook is intended to help analyze data from an imported revolut 
 ##### Example output:
 ![Example Output](./example_outputs/Dividends_by_Ticker_EUR_2024.png)
 ![Example Output](./example_outputs/Dividends_by_Ticker_USD_2024.png)
-Here are the key insights:
+<br>**Here are the key insights:**
 <br>In 2024, dividends were paid by a total of 9 unique instruments: AAPL, BABA, BRK.A, JPM, META, NFLX, NVDA, TSLA, V.
 <br>The highest dividend paying instrument in your portfolio in 2024 was AAPL.
 <br>Dividends for year 2024 totalled 433.84 EUR and 201.21 USD.
