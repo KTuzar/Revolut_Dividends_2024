@@ -31,4 +31,4 @@ This Jupyter notebook is intended to help analyze data from an imported revolut 
 - additional visualizations
 - comparison with other years
 - could optimize for currencies other than EUR and USD
-- could fetch live exchange rates for conversions between EUR and USD# New
+- could fetch live exchange rates for conversions between EUR and USD
