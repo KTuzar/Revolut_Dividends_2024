@@ -10,7 +10,7 @@ This Jupyter notebook is intended to help analyze data from an imported revolut 
 - show a visualization of dividends collected per ticker regardless of currency
 
 ##### Notes:
-- this notebook is designed to process data from your Revolut statement. This statement can be generated from your Revolut Invest section (in app: Invest > More > Documents > Brokerage account > Account statement > select Excel). Once you have the xlsx, you just need to save it as a csv.
+- this notebook is designed to process data from your Revolut statement. This statement can be generated from your Revolut Invest section (in app: Invest > More > Documents > Brokerage account > Account statement > select Excel).
 - this notebook provides insights for dividends collected in EUR or USD
 - [colors for matplotlib](https://matplotlib.org/3.3.0/gallery/color/named_colors.html)
 - [colormaps for matplotlib](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
