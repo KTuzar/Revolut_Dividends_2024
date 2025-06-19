@@ -10,10 +10,12 @@ This Jupyter notebook is intended to help analyze data from an imported revolut 
 - present visualizations to help showcase the insights obtained.
 
 ##### Notes:
+- libraries used: pandas, matplotlib.pyplot, matplotlib.cm, matplotlib.dates
 - this notebook is designed to process data from your Revolut statement. This statement can be generated from your Revolut Invest section (in app: Invest > More > Documents > Brokerage account > Account statement > select Excel).
 - this notebook provides insights for dividends collected in EUR or USD, no other currencies at this point
 - [colors for matplotlib](https://matplotlib.org/3.3.0/gallery/color/named_colors.html)
 - [colormaps for matplotlib](https://matplotlib.org/stable/users/explain/colors/colormaps.html)
+
 
 ##### Example output:
 ![Example Output](./example_outputs/Dividends_by_Ticker_EUR_2024.png)
