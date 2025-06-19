@@ -18,6 +18,8 @@ This Jupyter notebook is intended to help analyze data from an imported revolut 
 ##### Example output:
 ![Example Output](./example_outputs/Dividends_by_Ticker_EUR_2024.png)
 ![Example Output](./example_outputs/Dividends_by_Ticker_USD_2024.png)
+![Example Output](./example_outputs/Dividends_by_Month_USD_2024.png)
+![Example Output](./example_outputs/Dividend_Payouts_2024.png)
 
 
 ##### Space for improvement:
