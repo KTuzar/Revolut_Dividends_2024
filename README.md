@@ -26,7 +26,6 @@ This Jupyter notebook is intended to help analyze data from an imported revolut 
 <br>FX Rate used: 1 EUR = 1.08 USD, 1 USD = 0.93 EUR (Updated on 2025/03/26).
 
 ##### Space for improvement:
-- change to work with xlsx directly
 - add a column with 'year' to store the year extracted from 'date'
 - additional visualizations
 - comparison with other years
